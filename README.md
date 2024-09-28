@@ -9,3 +9,14 @@ This Data analysis aims to generate insight into how to create Database, create 
 ### Data Sources
 The primary source of Data used during my learning process is an open source data that can be freely downloaded from an open source online as kaggle
 
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  
+    i. For data cleaning
+  
+    ii. For Analysis
+  
+    iii. For Visualization
+- SQL - Structured Query Language for Quering of data
+- GitHub for Portfolio Building  
+
