@@ -46,9 +46,7 @@ The primary source of Data used during my learning process is an open source dat
 
 Data Visualization
 
+[Uploading SQLQuery2.sql…]()
 
-  [Uploading SQL QUERIES FOR 19&20.txt…]()
 
-    
-    
 
