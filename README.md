@@ -43,9 +43,12 @@ The primary source of Data used during my learning process is an open source dat
    SELECT * FROM TABLE1
    WHERE CONDITION = TRUE
 ```
-  
 
-  
+Data Visualization
+
+
+  [Uploading SQL QUERIES FOR 19&20.txt…]()
+
     
     
 
