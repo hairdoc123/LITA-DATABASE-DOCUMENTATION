@@ -50,7 +50,7 @@ The primary source of Data used during my learning process is an open source dat
    WHERE CONDITION = TRUE
 ```
 
-###Data Visualization
+### Data Visualization
 
 [Uploading SQLQuery2.sql…]()
 
