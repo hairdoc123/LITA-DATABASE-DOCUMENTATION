@@ -3,6 +3,12 @@ This is where i document my first project while learning Data Analysis with the 
 
 ## Project Title: My Data Analysis Learning Process
 
+[Project Overview]  
+Data Source
+Tools Used
+
+
+
 ### Project Overview
 This Data analysis aims to generate insight into how to create Database, create table, add record to my table
 
@@ -44,9 +50,15 @@ The primary source of Data used during my learning process is an open source dat
    WHERE CONDITION = TRUE
 ```
 
-Data Visualization
+###Data Visualization
 
 [Uploading SQLQuery2.sql…]()
 
+
+[Heading 1] [heading 2] [Heading3]
+
+[---------] [---------] [--------]
+
+[Table1] [Table2] [Table3]
 
 
