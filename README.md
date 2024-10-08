@@ -51,8 +51,13 @@ The primary source of Data used during my learning process is an open source dat
 ```
 
 ### Data Visualization
+[Excel Functions 2 - Text (1).xlsx](https://github.com/user-attachments/files/17285646/Excel.Functions.2.-.Text.1.xlsx)
 
 
+[Excel Functions 3 - LookUp.xlsx](https://github.com/user-attachments/files/17285611/Excel.Functions.3.-.LookUp.xlsx)
+
+
+[Pivot Tables File.xlsx](https://github.com/user-attachments/files/17285658/Pivot.Tables.File.xlsx)
 
 [Heading 1] [heading 2] [Heading3]
 
