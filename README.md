@@ -52,7 +52,6 @@ The primary source of Data used during my learning process is an open source dat
 
 ### Data Visualization
 
-[Uploading SQLQuery2.sql…]()
 
 
 [Heading 1] [heading 2] [Heading3]
